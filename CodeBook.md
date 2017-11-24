@@ -90,9 +90,9 @@ The type of activity performed for the corresponding measurements in remaining c
 * fBodyBodyGyroJerkMagMeanFreq
 
 **Activity Labels**
-**WALKING (value 1)**: subject was walking during the test
-**WALKING_UPSTAIRS (value 2)**: subject was walking up the stairs during the test
-**WALKING_DOWNSTAIRS (value 3)**: subject was walking down the stairs during the test
-**SITTING (value 4)**: subject was sitting during the test
-**STANDING (value 5)**: subject was standing during the test
-**LAYING (value 6)**: subject was lying down during the test
+* **WALKING (value 1)**: subject was walking during the test
+* **WALKING_UPSTAIRS (value 2)**: subject was walking up the stairs during the test
+* **WALKING_DOWNSTAIRS (value 3)**: subject was walking down the stairs during the test
+* **SITTING (value 4)**: subject was sitting during the test
+* **STANDING (value 5)**: subject was standing during the test
+* **LAYING (value 6)**: subject was lying down during the test
