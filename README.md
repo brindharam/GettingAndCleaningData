@@ -1,8 +1,7 @@
 ### ReadMe
 
-## Coursera Data Science
-## Course 3: Getting and Cleaning Data
-## Readme Document
+Coursera Data Science
+Getting and Cleaning Data Final Project - Readme Document
 
 This is the final project for the course "Getting and Cleaning Data". It does the following:
 
