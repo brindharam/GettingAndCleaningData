@@ -4,28 +4,20 @@ This code book summarizes the columns in tidyData.txt output
 
 ## **Columns/Fields:**
 
-### **Subject**: Test Subject ID
-### **Activity**: The type of activity performed for the corresponding measurements in remaining columns
-
+### **Subject**:
+Test Subject ID
+### **Activity**:
+The type of activity performed for the corresponding measurements in remaining columns
 ### **Measurements (below):**
-
 * tBodyAccMeanX
 * tBodyAccMeanY
-
 * tBodyAccMeanZ
-
 * tBodyAccStdX
-
 * tBodyAccStdY
-
 * tBodyAccStdZ
-
 * tGravityAccMeanX
-
 * tGravityAccMeanY
-
 * tGravityAccMeanZ
-
 * tGravityAccStdX
 
 * tGravityAccStdY
