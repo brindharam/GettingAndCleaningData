@@ -1,22 +1,16 @@
----
-title: "CodeBook"
-author: "Brindha R"
-date: "November 23, 2017"
-output: html_document
----
-
-## R Markdown
-
-Code Book
+## Code Book
 
 This code book summarizes the columns in tidyData.txt output
 
 Columns/Fields:
 
-Subject - Test Subject ID
-Activity - The type of activity performed for the corresponding measurements in remaining columns
+#Subject
+Test Subject ID
 
-Measurements
+#Activity
+The type of activity performed for the corresponding measurements in remaining columns
+
+#Measurements
 tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
@@ -97,11 +91,16 @@ fBodyBodyGyroJerkMagMean
 fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
-Activity Labels
+#Activity Labels
 
 WALKING (value 1): subject was walking during the test
+
 WALKING_UPSTAIRS (value 2): subject was walking up the stairs during the test
+
 WALKING_DOWNSTAIRS (value 3): subject was walking down the stairs during the test
+
 SITTING (value 4): subject was sitting during the test
+
 STANDING (value 5): subject was standing during the test
+
 LAYING (value 6): subject was lying down during the test
