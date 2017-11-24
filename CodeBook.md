@@ -1,74 +1,72 @@
-## Code Book
+# Code Book
 
 This code book summarizes the columns in tidyData.txt output
 
-Columns/Fields:
+## **Columns/Fields:**
 
-Subject: Test Subject ID
+### **Subject**: Test Subject ID
+### **Activity**: The type of activity performed for the corresponding measurements in remaining columns
 
-Activity: The type of activity performed for the corresponding measurements in remaining columns
+### **Measurements (below):**
 
-###Measurements
+* tBodyAccMeanX
+* tBodyAccMeanY
 
-tBodyAccMeanX
+* tBodyAccMeanZ
 
-tBodyAccMeanY
+* tBodyAccStdX
 
-tBodyAccMeanZ
+* tBodyAccStdY
 
-tBodyAccStdX
+* tBodyAccStdZ
 
-tBodyAccStdY
+* tGravityAccMeanX
 
-tBodyAccStdZ
+* tGravityAccMeanY
 
-tGravityAccMeanX
+* tGravityAccMeanZ
 
-tGravityAccMeanY
+* tGravityAccStdX
 
-tGravityAccMeanZ
+* tGravityAccStdY
 
-tGravityAccStdX
+* tGravityAccStdZ
 
-tGravityAccStdY
+* tBodyAccJerkMeanX
 
-tGravityAccStdZ
+* tBodyAccJerkMeanY
 
-tBodyAccJerkMeanX
+* tBodyAccJerkMeanZ
 
-tBodyAccJerkMeanY
+* tBodyAccJerkStdX
 
-tBodyAccJerkMeanZ
+* tBodyAccJerkStdY
 
-tBodyAccJerkStdX
+* tBodyAccJerkStdZ
 
-tBodyAccJerkStdY
+* tBodyGyroMeanX
 
-tBodyAccJerkStdZ
+* tBodyGyroMeanY
 
-tBodyGyroMeanX
+* tBodyGyroMeanZ
 
-tBodyGyroMeanY
+* tBodyGyroStdX
 
-tBodyGyroMeanZ
+* tBodyGyroStdY
 
-tBodyGyroStdX
+* tBodyGyroStdZ
 
-tBodyGyroStdY
+* tBodyGyroJerkMeanX
 
-tBodyGyroStdZ
+* tBodyGyroJerkMeanY
 
-tBodyGyroJerkMeanX
+* tBodyGyroJerkMeanZ
 
-tBodyGyroJerkMeanY
+* tBodyGyroJerkStdX
 
-tBodyGyroJerkMeanZ
+* tBodyGyroJerkStdY
 
-tBodyGyroJerkStdX
-
-tBodyGyroJerkStdY
-
-tBodyGyroJerkStdZ
+* tBodyGyroJerkStdZ
 
 tBodyAccMagMean
 
@@ -169,13 +167,13 @@ fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
 
-#Activity Labels
+**Activity Labels**
 
-WALKING (value 1): subject was walking during the test
+**WALKING (value 1)**: subject was walking during the test
 
-WALKING_UPSTAIRS (value 2): subject was walking up the stairs during the test
+**WALKING_UPSTAIRS (value 2)**: subject was walking up the stairs during the test
 
-WALKING_DOWNSTAIRS (value 3): subject was walking down the stairs during the test
+**WALKING_DOWNSTAIRS (value 3)**: subject was walking down the stairs during the test
 
 SITTING (value 4): subject was sitting during the test
 
